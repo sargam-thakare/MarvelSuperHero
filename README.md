@@ -27,6 +27,9 @@ Also we are adding favourite button to it on click of which it will e added to o
 and on the superhero details page we are fetching the superhero character id through url and fetching data of that hero
 and pushing that data inside array and displaying the data
 
+![image](https://github.com/sargam-thakare/MarvelSuperHero/assets/76519988/44e4aaa4-56b6-48d5-9538-4972616b205e)
+
+
 3.To search the superhero, we are comparing the value inside search field with name of all superhero anf filtering out the list
 
 4.If user click on fav button it will be comnverted to unfav button and that superhero will be added to myfavsuperhero array list
